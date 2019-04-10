@@ -1,0 +1,1 @@
+["./data/mIndicatorTrain\\accident.txt", "./data/mIndicatorTrain\\cancel.txt", "./data/mIndicatorTrain\\delay.txt", "./data/mIndicatorTrain\\questions.txt"]
